@@ -3,9 +3,9 @@
 - 🌿 Currently a Computer Science student at Technical University of Sofia (Branch Plovdiv).
 - 🚶‍♀️ Passionate about long walks in nature, especially through the lush forests.
 - 🥰 Favourire feelings:
-  -> 📖 a good book and a hot cup of tea in a cold weekend.
-  -> 🐞 finaly finding the bug in my code that I've been searching for a while.
-  -> 🎥 finding out that there is a serial based on a favourite book. 
+  --> 📖 a good book and a hot cup of tea in a cold weekend.
+  --> 🐞 finaly finding the bug in my code that I've been searching for a while.
+  --> 🎥 finding out that there is a serial based on a favourite book. 
 
 ## Interests & Studies 🎓:
 - Exploring various realms of computer science, from algorithms to software development.
