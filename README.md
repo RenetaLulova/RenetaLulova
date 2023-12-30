@@ -5,7 +5,7 @@
 - 🥰 Favourire feelings:
   - 📖 a good book and a hot cup of tea in a cold weekend.
   - 🐞 finaly finding the bug in my code that I've been searching for a while.
-  - 🎥 finding out that there is a serial based on a favourite book. 
+  - 🎥 finding out that there are series based on a favourite book. 
 
 ## Interests & Studies 🎓:
 - Exploring various realms of computer science, from algorithms to software development.
