@@ -1,7 +1,7 @@
-# Hi there! 👋 I’m Reneta Lulova 😊
+# Hi there!  I’m Reneta Lulova 😊
 
-- 🌿 Currently a Computer Science student at Technical University of Sofia (Branch Plovdiv).
-- 🚶‍♀️ Passionate about Backend Programming & Data Science
+-  Currently a Computer Science student at Technical University of Sofia (Branch Plovdiv).
+-  Passionate about Backend Programming & Data Science
 - 🥰 Favourire feelings:
   - 📖 a good book and a hot cup of tea in a cold weekend.
   - 🐞 finaly finding the bug in my code that I've been searching for a while.
