@@ -18,9 +18,9 @@
 - Engaged in learning principles of OOP with Java. (Course Java OOP in SorfUni alongside university)
 -- SoftUni sertifications:
   -Java Programming Basics -June 2022
-      - https://softuni.bg/certificates/details/137933/714d79ae
+      -https://softuni.bg/certificates/details/137933/714d79ae
   -Java Fundamentals - May 2023
-      - https://softuni.bg/users/profile/certificates?username=reneta_lulova
+      -https://softuni.bg/users/profile/certificates?username=reneta_lulova
   - Java Advanced - September 2023
       -https://softuni.bg/users/profile/certificates?username=reneta_lulova
 
